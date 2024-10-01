@@ -1,7 +1,7 @@
-- Hi, I’m @CeSaavedra
-- I’m interested in Game Development
-- I’m currently developing a Web application for my Portfolio
-- I'm learning Swift
+
+- Interested in Game Development
+- Developing Web Portfolio
+- Developing iOS application
 
 <!---
 CeSaavedra/CeSaavedra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
