@@ -1,5 +1,4 @@
 
-- Interested in Game Development
 - Developing Web Portfolio
 - Developing iOS application
 
