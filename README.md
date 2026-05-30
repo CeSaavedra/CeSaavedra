@@ -1,7 +1,5 @@
 ## 🔨 In Progress
 
-- 🎮 **Infinite Drive** — 3D Web Game (Three.js + Firebase leaderboard)  
-- 📱 **LifeSim** — iOS App Game (SwiftUI + CoreData)  
 - 🗄️ **InventoryTracker** — Java SQL Desktop App (JDBC)  
 
 
