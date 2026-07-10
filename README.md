@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+my+name+is+Cesar&center=true&size=30&color=1A94FF)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+my+name+is+Cesar&center=true&size=45&color=FFFFFF&background=000000&height=70&width=500" />
+  </a>
+</p>
 
 ## 👾 Projects Checklist 👾
 - **Three.js Game 1** — Publishing Infinite Drive to itch.io
