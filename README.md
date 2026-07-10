@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+my+name+is+Cesar&center=true&size=30&color=F724A9)](https://git.io/typing-svg)
 
 <!---
 CeSaavedra/CeSaavedra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
