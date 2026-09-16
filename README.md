@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Cesar&center=true&size=45&color=A3F527&background=141414&height=80&width=500&duration=2000" />
   </a>
 </p>
-<h2 align="center">🧩Languages & Tools 🧩</h2>
+<h1 align="center">🧩Languages & Tools 🧩</h1>
 
 <p align="center">
 <a href="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30"/></a>
@@ -18,9 +18,8 @@
 <a href="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" height="30"/></a>
 </p>
 
-<br><br>
 
-<h2 align="center">Projects Checklist</h2>
+<h1 align="center">Projects Checklist</h1>
 <p align="center">
   • <span style="color:red"><s><strong>Three.js Game 1</strong> — Publishing Infinite Drive to itch.io</s></span><br>
   • <strong>Three.js Game 2</strong> — Publishing 3D Chess game to itch.io<br>
@@ -29,7 +28,7 @@
 
 <br><br>
 
-<h2 align="center">Public Projects <a href="https://ravlo.itch.io/infinitedrive"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white" height="30"/></a></h2>
+<h1 align="center">Public Projects <a href="https://ravlo.itch.io/infinitedrive"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white" height="30"/></a></h1>
 <p align="center">
   • <strong>Infinite Drive</strong> — <a href="https://ravlo.itch.io/infinitedrive">Demo on itch.io</a><br>
 </p>
