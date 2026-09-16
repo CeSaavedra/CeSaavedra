@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Cesar&center=true&size=45&color=4B3BFF&background=000000&height=80&width=500&duration=2000" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Cesar&center=true&size=45&color=A3F527&background=141414&height=80&width=500&duration=2000" />
   </a>
 </p>
 <h2 align="center">🧩Languages & Tools 🧩</h2>
@@ -18,18 +18,20 @@
 <a href="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" height="30"/></a>
 </p>
 
+<br><br>
 
-
-
-
-
-
-<h2 align="center">👾 Projects Checklist 👾</h2>
+<h2 align="center">Projects Checklist</h2>
 <p align="center">
-  • <strong>Three.js Game 1</strong> — Publishing Infinite Drive to itch.io<br>
+  • <span style="color:red"><s><strong>Three.js Game 1</strong> — Publishing Infinite Drive to itch.io</s></span><br>
   • <strong>Three.js Game 2</strong> — Publishing 3D Chess game to itch.io<br>
-  • <strong>Godot Game 1</strong> — GMTK Game Jam 2026 Game - Publishing on itch.io<br>
-  • <strong>Godot Game 2</strong> — Simulator Game - Publishing on steam<br>
+  • <strong>Godot Game 1</strong> - Publishing on itch.io<br>
+</p>
+
+<br><br>
+
+<h2 align="center">Public Projects <a href="https://ravlo.itch.io/infinitedrive"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white" height="30"/></a></h2>
+<p align="center">
+  • <strong>Infinite Drive</strong> — <a href="https://ravlo.itch.io/infinitedrive">Demo on itch.io</a><br>
 </p>
 
 <!---
