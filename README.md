@@ -19,15 +19,6 @@
 </p>
 
 
-<h1 align="center">Projects Checklist</h1>
-<p align="center">
-  • <span style="color:red"><s><strong>Three.js Game 1</strong> — Publishing Infinite Drive to itch.io</s></span><br>
-  • <strong><s>Three.js Game 2</strong> — Publishing 3D Chess game to itch.io</s><br>
-  • <strong>Godot Game 1</strong> - Publishing on itch.io<br>
-</p>
-
-<br><br>
-
 <h1 align="center">Public Projects <a href="https://ravlo.itch.io/infinitedrive"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white" height="30"/></a></h1>
 <p align="center">
   • <strong>Infinite Drive</strong> — <a href="https://ravlo.itch.io/infinitedrive">Demo on itch.io</a><br>
