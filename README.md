@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Cesar&center=true&size=60&color=D93030&background=0d1117&height=150&width=1000&duration=2500" />
   </a>
 </p>
-<h1 align="center">Languages Used</h1>
+<h1 align="center">Languages & Tools</h1>
 
 <p align="center">
 <a href="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30"/></a>
